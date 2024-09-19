@@ -1,0 +1,1 @@
+<?php exit?>[{"id":1,"topic":"\u0e17\u0e14\u0e2a\u0e2d\u0e1a\u0e23\u0e30\u0e1a\u0e1a\u0e43\u0e2b\u0e21\u0e48","begin":"2024-09-18 13:07:01","end":"2024-09-18 13:30:00","color":"#01579B"}]
